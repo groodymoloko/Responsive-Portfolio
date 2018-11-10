@@ -191,6 +191,12 @@ a:hover {
         margin-left: 5%;
     }
 
+    .contentbox2 {
+        width: 75%;
+        margin-left: 5%;
+        height: 870px;
+    }
+
     .navlist {
         margin-right: 5%;
     }
@@ -209,6 +215,12 @@ a:hover {
     .contentbox {
         width: 95%;
         margin: auto;
+    }
+
+    .contentbox2 {
+        width: 95%;
+        margin-left: 2.5%;
+        height: 870px;
     }
 
     .navlist {
