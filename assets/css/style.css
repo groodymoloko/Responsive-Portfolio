@@ -58,31 +58,31 @@ input {
 }
 
 #random1 {
-    background-image: url("../images/random1.jpeg");
+    background-image: url("../images/random1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #random2 {
-    background-image: url("../images/random2.jpeg");
+    background-image: url("../images/random2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #random3 {
-    background-image: url("../images/random3.jpeg");
+    background-image: url("../images/random3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #random4 {
-    background-image: url("../images/random4.jpeg");
+    background-image: url("../images/random4.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #random5 {
-    background-image: url("../images/random5.jpeg");
+    background-image: url("../images/random5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
