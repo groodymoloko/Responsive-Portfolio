@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Homework #2
+This is a simple example for a manually configured (non-Bootstrap) responsive website.
